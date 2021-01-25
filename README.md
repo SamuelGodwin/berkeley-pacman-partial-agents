@@ -4,4 +4,4 @@ The files that I wrote in exclusively is [mdpAgents.py]; the rest of the materia
 
 To run, download the files and move to the directory where the base files are in, and run python pacman.py -p mdpAgent -l mediumClassic
 
-This, CW2 of this module and one other module (pretty sure it was iai!) had the yowza that's a lot of files limit when uploading via upload (too many files in the test_cases folder so couldn't include that folder). If this were done via git command line push, it would upload without the limit no problem!
+This, CW2 of this module and one other module (pretty sure it was iai) had the yowza that's a lot of files limit when uploading via upload (too many files in the test_cases folder so couldn't include that folder). If this were done via git command line push, it would upload without the limit no problem!
